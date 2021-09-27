@@ -1,0 +1,15 @@
+{
+	"componentName": "head",
+	"title": "Head",
+	"attributes": {
+		"headFavicon": {
+			"type": "string"
+		},
+		"headCharset": {
+			"type": "string"
+		},
+		"headName": {
+			"type": "string"
+		}
+	}
+}
